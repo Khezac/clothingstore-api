@@ -3,7 +3,7 @@
     {
       "id": "1@1",
       "senha": "12345678",
-      "confirmar_senha": "1",
+      "confirmar_senha": "12345678",
       "nome": "Gabriel",
       "telefone": "22222222222",
       "cep": "28605562"
